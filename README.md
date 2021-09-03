@@ -15,8 +15,8 @@ Key partners
 -small business owners
 
 The Intended Users are:
--Persons who wish to use online store from their comfort of their homes.
--Connect communities with the variety of stores.
+.Persons who wish to use online store from their comfort of their homes.
+.Connect communities with the variety of stores.
 
 Team members:
 Nowa Baloyi
